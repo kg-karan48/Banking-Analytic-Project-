@@ -32,3 +32,9 @@ Requirements:
 6. User Access:
 •	Role-based access: Stakeholders with different roles have specific levels of data visibility.
 
+
+#Repository Structure
+
+  Data  =      https://github.com/kg-karan48/Banking-Analytic-Project-/blob/main/Datasets.xlsx
+  Dashboard = 
+  Images = 
