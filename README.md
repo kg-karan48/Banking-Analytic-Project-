@@ -35,6 +35,6 @@ Requirements:
 
 #Repository Structure
 
-  Data  =    <a href  https://github.com/kg-karan48/Banking-Analytic-Project-/blob/main/Datasets.xlsx </a>
-  Dashboard = <a href https://github.com/kg-karan48/Banking-Analytic-Project-/blob/main/Stackholder%20Insight%20%26%20Performance%20Dashboard%20PDF.pdf </a>
+  Data  =    <a href  https://github.com/kg-karan48/Banking-Analytic-Project-/blob/main/Datasets.xlsx </a> <br/>
+  Dashboard = <a href https://github.com/kg-karan48/Banking-Analytic-Project-/blob/main/Stackholder%20Insight%20%26%20Performance%20Dashboard%20PDF.pdf </a></br>
   Screenshot  =  <a href  https://github.com/kg-karan48/Banking-Analytic-Project-/blob/main/Screenshot%202025-06-21%20163153.png </a>
